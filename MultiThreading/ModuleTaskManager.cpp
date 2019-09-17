@@ -16,7 +16,7 @@ void ModuleTaskManager::threadMain()
 bool ModuleTaskManager::init()
 {
 	// TODO 1: Create threads (they have to execute threadMain())
-
+	// 4 threads
 	return true;
 }
 

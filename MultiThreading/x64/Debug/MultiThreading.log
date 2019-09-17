@@ -22,4 +22,5 @@
   Compiling...
   Time.cpp
   Generating Code...
-  MultiThreading.vcxproj -> C:\Users\guillemaj\Desktop\MultiThreading\x64\Debug\MultiThreading.exe
+  LINK : C:\Users\guillemaj\Documents\GitHub\Lab1-Thread\MultiThreading\x64\Debug\MultiThreading.exe not found or not built by the last incremental link; performing full link
+  MultiThreading.vcxproj -> C:\Users\guillemaj\Documents\GitHub\Lab1-Thread\MultiThreading\x64\Debug\MultiThreading.exe
